@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JudyDial
+- 👋 Hi, I’m @Judy Njenga
   
 - 👀 I’m interested in Django, a powerful web framework written in python. I enjoy developing web applications and exploring the various features and capabilities offered by Django.
   
