@@ -14,8 +14,8 @@ I enjoy working across the entire software development lifecycle — from ideati
 I'd love to connect, collaborate, or just chat about tech, open source, or anything creative!
 
 - ✉️ Email: [judy.njenga14@email.com](mailto:judy.njenga@email.com)
-- 💼 LinkedIn: (www.linkedin.com/in/judy-njenga-94b313270)
-- 🌐 Portfolio: (https://your-portfolio-url.com)
+- 💼 LinkedIn: www.linkedin.com/in/judy-njenga-94b313270
+- 🌐 Portfolio: https://your-portfolio-url.com
 
 Thanks for visiting! 😊
 
