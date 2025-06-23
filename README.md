@@ -4,18 +4,18 @@ With hands-on experience in frameworks like React, Next.js, Django, and Node.js,
 I enjoy working across the entire software development lifecycle — from ideation and planning to development, deployment, and iteration. Whether collaborating in agile teams or handling freelance contracts, I focus on clean code, problem-solving, and delivering solutions that make a measurable impact.
 
 ### 🛠️Tech skills
-**Frontend:** Next.js, React, Typescript, Javascript, Tailwind CSS, HTML, CSS, Bootstrap
-**Backend:** Django, Python, REST API's
-**Database:** MySQL, SQLite, PostgreSQL
-**DevOps:** Docker, AWS, Nginx
-**Tools:** VS Code, Postman, Jira, Figma, Git
+- **Frontend:** Next.js, React, Typescript, Javascript, Tailwind CSS, HTML, CSS, Bootstrap
+- **Backend:** Django, Python, REST API's
+- **Database:** MySQL, SQLite, PostgreSQL
+- **DevOps:** Docker, AWS, Nginx
+- **Tools:** VS Code, Postman, Jira, Figma, Git
 
 ### 📫 Let's Connect
 I'd love to connect, collaborate, or just chat about tech, open source, or anything creative!
 
-- ✉️ Email: [judy.njenga14@email.com](mailto:judy.njenga@email.com)
-- 💼 LinkedIn: www.linkedin.com/in/judy-njenga-94b313270
-- 🌐 Portfolio: https://your-portfolio-url.com
+- ✉️ **Email:** [judy.njenga14@email.com](mailto:judy.njenga@email.com)
+- 💼 **LinkedIn:** www.linkedin.com/in/judy-njenga-94b313270
+- 🌐 **Portfolio:** https://your-portfolio-url.com
 
 Thanks for visiting! 😊
 
